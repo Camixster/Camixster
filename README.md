@@ -1,4 +1,8 @@
-## Hi there 👋
+## print('Hola mundo')👋
+
+## Lenguajes de programación y herramientas que uso
+
+[![My Skills](https://skillicons.dev/icons?i=python)]
 
 <!--
 **Camixster/Camixster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
