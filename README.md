@@ -7,11 +7,12 @@ Soy estudiante de Ingeniería en Informática que actualmente estoy en el segund
 
 # 🌟 Mis skills
 - Python
+- PHP
 - Java
 - C# (En aprendizaje)
 - JavaScript
 
-![My Skills](https://skillicons.dev/icons?i=python,java,cs,js)
+![My Skills](https://skillicons.dev/icons?i=python,php,java,cs,js)
 
 ### 🖥️ Desarrollo Frontend
 - HTML5
@@ -21,9 +22,10 @@ Soy estudiante de Ingeniería en Informática que actualmente estoy en el segund
 
 ### ⚙️ Frameworks
 - Django (Desarrollo web)
+- Laravel (Desarrollo web) (En aprendizaje)
 - .NET (Desarrollo de software)
 
-![Frameworks](https://skillicons.dev/icons?i=django,dotnet)
+![Frameworks](https://skillicons.dev/icons?i=django,laravel,dotnet)
 
 ### 🕹️ Desarrollo de Videojuegos
 - Unity (En aprendizaje)
